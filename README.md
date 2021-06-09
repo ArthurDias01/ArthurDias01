@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArthurDias01
-- 👀 I’m interested in mobile and web development (ReacJS, React-native, HTML5, CSS3, Bootstrap, PostgreSQL, Ruby, NodeJS)
-- 🌱 I’m currently learning ...(ReacJS, React-native, HTML5, CSS3, Bootstrap, PostgreSQL, Ruby, NodeJS)
+- 👀 I’m interested in mobile and web development (ReacJS, React-native, HTML5, CSS3, Bootstrap, PostgreSQL, NodeJS)
+- 🌱 I’m currently learning ...(ReacJS, React-native, HTML5, CSS3, Bootstrap, PostgreSQL, NodeJS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
