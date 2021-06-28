@@ -8,7 +8,7 @@ https://www.linkedin.com/in/arthur-dias/
 
 or
 
-coally.com.br
+https://coally.com.br
 <!---
 ArthurDias01/ArthurDias01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
