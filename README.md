@@ -17,16 +17,14 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+<br>
 
-links to some of my jobs: 
+latest work: 
 
 AlluagroWeb - NextJS + ChakraUI + Firebase + TypeScript 
 Web: https://alluagroweb.vercel.app
 
-
 AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components
-
 
 -iOS: https://apps.apple.com/br/app/alluagro/id1610434196?itsct=apps_box_badge&itscg=30200
 
@@ -37,11 +35,6 @@ AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components
 <a href="https://www.linkedin.com/in/arthur-dias/" target="_blank">
   LinkedIn: <img align="center" src="https://img.shields.io/badge/-arthurdias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-
-
-
-
-
 
 
 <p align="left">
