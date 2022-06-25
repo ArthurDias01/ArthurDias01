@@ -35,9 +35,9 @@ AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components
 - 📫 How to reach me ...
 ## 👨🏽‍🦲 &nbsp;Social Links
 <a href="https://www.linkedin.com/in/arthur-dias/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  LinkedIn: <img align="center" src="https://img.shields.io/badge/-arthurdias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-LinkedIn:
+
 
 
 
