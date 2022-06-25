@@ -2,27 +2,7 @@
 - 👀 I’m interested in mobile and web development (ReacJS, React-Native, NodeJS)
 - 🌱 I’m currently learning ...(NodeJS)
 - 💞️ I’m looking to collaborate on ...(ReacJS, React-Native, NodeJS)
-- 📫 How to reach me ...
 
-links to some of my jobs: 
-
-AlluagroWeb - NextJS + ChakraUI + Firebase + TypeScript 
-Web: https://alluagroweb.vercel.app
-
-
-AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components
-
-
--iOS: https://apps.apple.com/br/app/alluagro/id1610434196?itsct=apps_box_badge&itscg=30200
-
--Android: https://play.google.com/store/apps/details?id=com.alluagro.alluagroapp
-
-LinkedIn:
-https://www.linkedin.com/in/arthur-dias/
-
-or
-
-https://coally.com.br
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -38,6 +18,30 @@ https://coally.com.br
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 <br><br>
+
+links to some of my jobs: 
+
+AlluagroWeb - NextJS + ChakraUI + Firebase + TypeScript 
+Web: https://alluagroweb.vercel.app
+
+
+AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components
+
+
+-iOS: https://apps.apple.com/br/app/alluagro/id1610434196?itsct=apps_box_badge&itscg=30200
+
+-Android: https://play.google.com/store/apps/details?id=com.alluagro.alluagroapp
+
+- 📫 How to reach me ...
+## 👨🏽‍🦲 &nbsp;Social Links
+<a href="https://www.linkedin.com/in/arthur-dias/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+LinkedIn:
+
+
+
+
 
 
 <p align="left">
