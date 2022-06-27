@@ -31,12 +31,13 @@ AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components
 -Android: https://play.google.com/store/apps/details?id=com.alluagro.alluagroapp
 
 - 📫 How to reach me ...
+
 ## 👨🏽‍🦲 &nbsp;Social Links
 <a href="https://www.linkedin.com/in/arthur-dias/" target="_blank">
   LinkedIn: <img align="center" src="https://img.shields.io/badge/-arthurdias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
-
+<br><br>
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=arthurdias01&show_icons=true&theme=vision-friendly-dark" alt="Arthur Dias's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdias01&layout=compact&theme=vision-friendly-dark" alt="Arthur Dias's most languages"/>
