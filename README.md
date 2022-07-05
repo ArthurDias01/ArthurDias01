@@ -22,13 +22,11 @@
 latest work: 
 
 AlluagroWeb - NextJS + ChakraUI + Firebase + TypeScript 
-Web: https://alluagroweb.vercel.app
+[Web](https://alluagroweb.vercel.app)
 
-AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components
-
--iOS: https://apps.apple.com/br/app/alluagro/id1610434196?itsct=apps_box_badge&itscg=30200
-
--Android: https://play.google.com/store/apps/details?id=com.alluagro.alluagroapp
+AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components <br>
+[iOS](https://apps.apple.com/br/app/alluagro/id1610434196?itsct=apps_box_badge&itscg=30200) <br>
+[Android](https://play.google.com/store/apps/details?id=com.alluagro.alluagroapp)
 
 - 📫 How to reach me ...
 
