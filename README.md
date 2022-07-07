@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ArthurDias01
+- 👋 Hi, I’m @ArthurDias01 I'm an very curious Aerospace Engineer and a self-taught FullStack developer 
 - 👀 I’m interested in mobile and web development (ReacJS, React-Native, NodeJS,NestJS)
-- 🌱 I’m currently learning ...(NodeJS)
 - 💞️ I’m looking to collaborate on ...(ReacJS, React-Native, NodeJS, NestJS)
 
 
