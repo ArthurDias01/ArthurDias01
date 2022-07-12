@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ArthurDias01 I'm an very curious Aerospace Engineer and a self-taught FullStack developer 
+<h2 align="left">Hi 👋! My name is Arthur and I'm a very curious Aerospace Engineer and a self-taught FullStack developer, from São José dos Campos, SP, Brazil</h2>
 - 👀 I’m interested in mobile and web development (ReacJS, React-Native, NodeJS,NestJS)
 - 💞️ I’m looking to collaborate on ...(ReacJS, React-Native, NodeJS, NestJS)
+
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -52,10 +53,18 @@ AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components
 </a>
 
 <br><br>
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=arthurdias01&show_icons=true&theme=vision-friendly-dark" alt="Arthur Dias's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdias01&layout=compact&theme=vision-friendly-dark" alt="Arthur Dias's most languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ArthurDias01" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ArthurDias01" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/A/count.svg?"  />
+</div>
+
+###
 
 <!---
 ArthurDias01/ArthurDias01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
