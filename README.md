@@ -165,6 +165,10 @@ AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components
 
 ###
 
+<p align="center">
+  <img width="750" src="https://github.com/ArthurDias01/ArthurDias01/blob/output/github-contribution-grid-snake.svg" alt="Material Bread logo">
+</p>
+
 <!---
 ArthurDias01/ArthurDias01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
