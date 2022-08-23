@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Arthur and I'm a very curious Aerospace Engineer and a self-taught FullStack developer, from São José dos Campos, SP, Brazil</h2>
+<h2 align="left">Hi 👋! My name is Arthur and I'm a very curious Aerospace Engineer and a self-taught Full Stack & Mobile developer, from São José dos Campos, SP, Brazil</h2>
 
 - 👀 I’m interested in mobile and web development (ReacJS, React-Native, NodeJS,NestJS)
 
-- 💞️ I’m looking to collaborate on ...(ReacJS, React-Native, NodeJS, NestJS)
+- 💞️ I’m looking to collaborate on ...(ReactJS, React-Native, NodeJS, NestJS)
 
 
 
