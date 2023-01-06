@@ -166,7 +166,7 @@ AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components
 ###
 
 <p align="center">
-  <img width="750" src="https://github.com/ArthurDias01/ArthurDias01/blob/output/github-contribution-grid-snake.svg" alt="Material Bread logo">
+  <img width="750" height="250" src="https://github.com/ArthurDias01/ArthurDias01/blob/output/github-contribution-grid-snake.svg" alt="Material Bread logo">
 </p>
 
 <!---
