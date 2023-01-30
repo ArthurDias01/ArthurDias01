@@ -75,7 +75,8 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
-![Fastify](https://img.shields.io/badge/fastify-%1C1E24.svg?style=for-the-badge&logo=fastify&logoColor=white)&nbsp;
+![Fastify](https://img.shields.io/badge/fastify-1C1E24.svg?style=for-the-badge&logo=fastify&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/redis-1C1E24?style=for-the-badge&logo=redis)&nbsp;
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
