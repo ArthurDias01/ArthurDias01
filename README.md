@@ -141,14 +141,12 @@
 
 ## Latest work: 
 
-AlluagroWeb - NextJS + ChakraUI + Firebase + TypeScript 
-- [x] [Web](https://alluagroweb.vercel.app)
+M'atelie E-commerce 
 
-AlluagroMobile - React-Native + Expo + Firebase + TypeScript + Styled-Components <br>
-- [x] [iOS](https://apps.apple.com/br/app/alluagro/id1610434196?itsct=apps_box_badge&itscg=30200)
-- [x] [Android](https://play.google.com/store/apps/details?id=com.alluagro.alluagroapp)
+[Matelie.art](https://matelie.art)
+NextJS + Wordpress + Woocommerce. TypeScript.
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 🏽‍👦🏽 &nbsp;Social Links
 <a href="https://www.linkedin.com/in/arthur-dias/" target="_blank">
   LinkedIn: <img align="center" src="https://img.shields.io/badge/-arthurdias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
