@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arthur and I'm a very curious Aerospace Engineer and a self-taught Full Stack & Mobile developer, from São José dos Campos, SP, Brazil</h2>
+<h2 align="left">Hi 👋! My name is Arthur and I'm a very curious Aerospace Engineer and Full Stack & Mobile developer, from São José dos Campos, SP, Brazil</h2>
 
 - 👀 I’m interested in mobile and web development (ReacJS, React-Native, NodeJS,NestJS)
 
@@ -146,7 +146,7 @@ M'atelie E-commerce
 [Matelie.art](https://matelie.art)
 NextJS + Wordpress + Woocommerce. TypeScript.
 
-## 🏽‍👦🏽 &nbsp;Social Links
+## 👦🏽 &nbsp;Social Links
 <a href="https://www.linkedin.com/in/arthur-dias/" target="_blank">
   LinkedIn: <img align="center" src="https://img.shields.io/badge/-arthurdias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
