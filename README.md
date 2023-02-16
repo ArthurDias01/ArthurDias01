@@ -130,7 +130,8 @@
 <td>
   
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Kafka](https://img.shields.io/badge/kafka-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=black)&nbsp;
+  
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
   
 </td>
