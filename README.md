@@ -20,7 +20,7 @@
 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![PNPM](https://img.shields.io/badge/PNPM-%23323330.svg?style=for-the-badge&logo=pnpm&logoColor=white)&nbsp;
+![PNPM](https://img.shields.io/badge/PNPM-%23323330.svg?style=for-the-badge&logo=pnpm&logoColor=yellow)&nbsp;
 
 </td>
 <td>
@@ -130,6 +130,7 @@
 <td>
   
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/kafka-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=black)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
   
 </td>
