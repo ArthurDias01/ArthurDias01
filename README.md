@@ -14,13 +14,15 @@
 <th> Languages </th>
 <th> MarkDown </th>
 <th> Styling </th>
+<th> Testing </th>
 </tr>
 <tr>
 <td>
 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![PNPM](https://img.shields.io/badge/PNPM-%23323330.svg?style=for-the-badge&logo=pnpm&logoColor=yellow)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)&nbsp;
+
 
 </td>
 <td>
@@ -45,9 +47,14 @@
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
-
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
 </td>
-  
+
+ <td>
+   
+ ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+
+ </td>
 
 </tr>
 </table>
@@ -79,8 +86,11 @@
 ![Fastify](https://img.shields.io/badge/fastify-1C1E24.svg?style=for-the-badge&logo=fastify&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/redis-1C1E24?style=for-the-badge&logo=redis)&nbsp;
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)&nbsp;
+![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)&nbsp;
   
 </td>
   
@@ -101,6 +111,7 @@
 <th> IDE </th>
 <th> Databases </th>
 <th> DevOPs & Others </th>
+<th> Cloud Tools </th>
 </tr>
 <tr>
 
@@ -130,12 +141,19 @@
 <td>
   
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-  
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
   
 </td>
+
+<td>
   
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
+  
+</td>
+ 
 </tr>
 </table>
 
