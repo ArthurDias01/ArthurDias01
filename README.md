@@ -162,10 +162,10 @@
 
 ## Latest work: 
 
-M'atelie E-commerce 
+New Portifolio 
 
-[Matelie.art](https://matelie.art)
-NextJS + Wordpress + Woocommerce. TypeScript.
+[Newest Portfolio](https://arthurdias.dev)
+NextJS + Contentful + TypeScript + React + TailwindCSS.
 
 ## 👦🏽 &nbsp;Social Links
 <a href="https://www.linkedin.com/in/arthur-dias/" target="_blank">
