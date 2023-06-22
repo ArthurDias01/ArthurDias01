@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arthur and I'm a very curious Aerospace Engineer and Full Stack & Mobile developer, from São José dos Campos, SP, Brazil</h2>
+<h2 align="left">Hi 👋! My name is Arthur and I'm a very curious Full Stack & Mobile developer, from São José dos Campos, SP, Brazil</h2>
 
 - 👀 I’m interested in mobile and web development (ReacJS, React-Native, NodeJS,NestJS)
 
@@ -130,6 +130,7 @@
 
 <td>
   
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
