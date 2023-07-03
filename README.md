@@ -4,6 +4,7 @@
 
 - 💞️ I’m looking to collaborate on ...(ReactJS, React-Native, NodeJS, NestJS)
 
+Someone who has started programming with Fortran (2010) for Aerospace engineering, passed by MATLAB (C/C++) programming language creating tools on overall day-to-day engineering then during pandemics fell in love for app development for web/mobile/data management.
 
 
 ## 🛠 &nbsp;Tech Stack
