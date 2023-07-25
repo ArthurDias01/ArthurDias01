@@ -204,8 +204,9 @@ NextJS + Contentful + TypeScript + React + TailwindCSS.
 ###
 
 <p align="center">
-  <img width="750" height="250" src="https://github.com/ArthurDias01/ArthurDias01/blob/output/github-contribution-grid-snake.svg" alt="Material Bread logo">
+  <img width="750" height="250" src="https://github.com/ArthurDias01/ArthurDias01/blob/output/github-contribution-grid-snake-dark.svg" alt="Material Bread logo">
 </p>
+
 
 <!---
 ArthurDias01/ArthurDias01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
