@@ -85,7 +85,6 @@ Someone who has started programming with Fortran (2010) for Aerospace engineerin
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 </td>
   
@@ -160,7 +159,8 @@ Someone who has started programming with Fortran (2010) for Aerospace engineerin
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 </td>
 
 <td>
@@ -179,10 +179,11 @@ Someone who has started programming with Fortran (2010) for Aerospace engineerin
 
 ## Latest work: 
 
-New Portifolio 
+FarmGenerations - GrownBy
 
-[Newest Portfolio](https://arthurdias.dev)
-NextJS + Contentful + TypeScript + React + TailwindCSS.
+[GrownBy - App](https://grownby.app/)
+
+React Native (Web/Android/iOS), Redux, Firebase
 
 ## 👦🏽 &nbsp;Social Links
 <a href="https://www.linkedin.com/in/arthur-dias/" target="_blank">
