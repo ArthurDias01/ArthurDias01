@@ -4,7 +4,7 @@
 
 - 💞️ I’m looking to collaborate on ...(ReactJS, React-Native, NodeJS, NestJS)
 
-Someone who has started programming with Fortran (2010) for Aerospace engineering, passed by MATLAB (C/C++) programming language creating tools on overall day-to-day engineering then during pandemics fell in love for app development for web/mobile/data management.
+Someone who has started programming with Fortran (2010) for Aerospace engineering, passed by MATLAB (C/C++) programming languages creating tools on overall day-to-day engineering then during pandemics fell in love for app development for web/mobile/data management.
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -189,6 +189,8 @@ React Native (Web/Android/iOS), Redux, Firebase
 <a href="https://www.linkedin.com/in/arthur-dias/" target="_blank">
   LinkedIn: <img align="center" src="https://img.shields.io/badge/-arthurdias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+
+
 
 <br><br>
 <div align="center">
