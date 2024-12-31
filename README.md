@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Arthur and I'm a very curious Full Stack & Mobile developer, from São José dos Campos, SP, Brazil</h2>
+<h2 align="left">Hi 👋! My name is Arthur and I'm a very curious Senior Full Stack & Mobile developer, from São José dos Campos, SP, Brazil</h2>
 
-- 👀 I’m interested in mobile and web development (ReacJS, React-Native, NodeJS,NestJS)
+- 👀 I’m interested in web development and  mobile (TypeScript, ReacJS, React-Native, NodeJS, NestJS)
 
-- 💞️ I’m looking to collaborate on ...(ReactJS, React-Native, NodeJS, NestJS)
+- 💞️ I’m looking to collaborate on ...(TypeScript, ReactJS, React-Native, NodeJS, NestJS)
 
 Someone who has started programming with Fortran (2010) for Aerospace engineering, passed by MATLAB (C/C++) programming languages creating tools on overall day-to-day engineering then during pandemics fell in love for app development for web/mobile/data management.
 
