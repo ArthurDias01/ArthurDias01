@@ -179,11 +179,13 @@ Someone who has started programming with Fortran (2010) for Aerospace engineerin
 
 ## Latest work: 
 
-FarmGenerations - GrownBy
+Pidapi - https://pidapi.com
 
-[GrownBy - App](https://grownby.app/)
+[Pidapi Seller Club - App](https://app.pidapi.com/)
 
-React Native (Web/Android/iOS), Redux, Firebase
+Next.js (Web App)
+Nest.js (Backend)
+MongoDB (Database)
 
 ## 👦🏽 &nbsp;Social Links
 <a href="https://www.linkedin.com/in/arthur-dias/" target="_blank">
