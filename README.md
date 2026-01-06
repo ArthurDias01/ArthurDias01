@@ -216,9 +216,9 @@ MongoDB (Database)
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/A/count.svg?"  />
-</div>
+<!-- <div align="center">
+  <img src="https://profile-counter.glitch.me/ArthurDias01/count.svg?"  />
+</div> -->
 
 ###
 
