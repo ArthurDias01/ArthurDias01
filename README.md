@@ -216,9 +216,8 @@ MongoDB (Database)
 
 ###
 
-<!-- <div align="center">
-  <img src="https://profile-counter.glitch.me/ArthurDias01/count.svg?"  />
-</div> -->
+  ![](https://hit.yhype.me/github/profile?account_id=83284629)
+
 
 ###
 
