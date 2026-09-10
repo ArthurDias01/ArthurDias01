@@ -189,9 +189,9 @@ Someone who has started programming with Fortran (2010) for Aerospace engineerin
 
 ## Latest work: 
 
-SWE - Silicon Data - [SiliconData](https://silicondata.com)
-Founder - Piggybank Finances [Piggybank](https://piggybankfinances.com)
-Founder - BoldVault - US Immigration Software Infrastructure [Central Tracker](https://boldvault.io/central-tracker)
+SWE - Silicon Data - [SiliconData](https://silicondata.com) <br>
+Founder - Piggybank Finances [Piggybank](https://piggybankfinances.com) <br>
+Founder - BoldVault - US Immigration Software Infrastructure [Central Tracker](https://boldvault.io/central-tracker)<br>
 
 ## 👦🏽 &nbsp;Social Links
 
