@@ -189,15 +189,9 @@ Someone who has started programming with Fortran (2010) for Aerospace engineerin
 
 ## Latest work: 
 
-Silicon Data - [SiliconData](https://silicondata.com)
-
-Pidapi - https://pidapi.com
-
-[Pidapi Seller Club - App](https://app.pidapi.com/)
-
-Next.js (Web App)
-Nest.js (Backend)
-MongoDB (Database)
+SWE - Silicon Data - [SiliconData](https://silicondata.com)
+Founder - Piggybank Finances [Piggybank](https://piggybankfinances.com)
+Founder - BoldVault - US Immigration Software Infrastructure [Central Tracker](https://boldvault.io/central-tracker)
 
 ## 👦🏽 &nbsp;Social Links
 
